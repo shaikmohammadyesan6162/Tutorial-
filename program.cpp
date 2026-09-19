@@ -6,3 +6,5 @@ cin>>"a:";
 cin>>"b:";
 c=a+b;
 cout<<"output"<<c;
+return 0;
+}
